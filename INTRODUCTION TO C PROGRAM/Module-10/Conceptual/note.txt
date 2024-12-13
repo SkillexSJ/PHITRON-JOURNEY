@@ -1,0 +1,3 @@
+string ta character array er motoi
+0 number index tai muloto ekta word er location
+ ami index ber kore ekta string er letter o ami change kore parbo

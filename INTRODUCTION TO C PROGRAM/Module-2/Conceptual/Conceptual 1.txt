@@ -1,0 +1,6 @@
+"long long int" beshi use korbo karon "long int" Eita error ashte pare 32bit pc te
+
+ar float type kaj korte hole "Double" use korbo 
+
+
+%d othoba joto format specifier ache ta jotokhon porjonto tar exact value na pabe shey chaitei thakbe
